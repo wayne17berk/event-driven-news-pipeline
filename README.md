@@ -6,7 +6,7 @@ NLP pipeline to extract structured event signals from news for prediction market
 ## Implemented Features
 - ✅ Entity extraction from news text
 - ✅ Sentiment analysis for probability updates
-- ✅ Sub-5 second processing latency
+- ✅ Sub-5 second processing latency error
 
 ## Setup
 ```bash
